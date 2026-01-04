@@ -4,14 +4,14 @@ A simple and secure local storage package with support for primitives, collectio
 
 ## Features
 
-✅ **Simple API** - Easy-to-use interface for all storage operations
-✅ **Type Safety** - Generic methods with compile-time type checking
-✅ **Multiple Data Types** - Support for primitives, lists, maps, and custom objects
-✅ **Secure Storage** - Encrypted storage for sensitive data (tokens, passwords)
-✅ **TTL Support** - Time-to-live for cached data
-✅ **Singleton Pattern** - Easy access from anywhere in your app
-✅ **Exception Handling** - Proper error handling with custom exceptions
-✅ **JSON Serialization** - Automatic serialization for complex types
+- **Simple API** - Easy-to-use interface for all storage operations
+- **Type Safety** - Generic methods with compile-time type checking
+- **Multiple Data Types** - Support for primitives, lists, maps, and custom objects
+- **Secure Storage** - Encrypted storage for sensitive data (tokens, passwords)
+- **TTL Support** - Time-to-live for cached data
+- **Singleton Pattern** - Easy access from anywhere in your app
+- **Exception Handling** - Proper error handling with custom exceptions
+- **JSON Serialization** - Automatic serialization for complex types
 
 ## Installation
 
